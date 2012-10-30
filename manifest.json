@@ -1,0 +1,11 @@
+{
+    "manifest_version": 2,
+    "name": "Url Shortener extension ñ_ñ",
+    "description": "just another Url Shortener extension",
+  	"version": "1.0",
+    "browser_action": {
+        "default_icon": "./icons/icon.png",
+        "default_title": "URL Shortener",
+        "default_popup": "./popup.html"
+    }
+}
